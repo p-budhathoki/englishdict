@@ -1,10 +1,20 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+    color: black;
+}
+
 body {
     margin: 0;
     display: flex;
     min-height: 100vh;
     justify-content: center;
     align-items: center;
-    background-color: salmon;
+    background-color: rgb(250, 128, 114);
     font-family: 'Courier New', Courier, monospace;
 }
 
